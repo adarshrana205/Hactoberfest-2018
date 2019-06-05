@@ -1,4 +1,7 @@
 # Hacktoberfest-2018
+
+[![Join the chat at https://gitter.im/Hactoberfest2018/Lobby](https://badges.gitter.im/Hactoberfest2018/Lobby.svg)](https://gitter.im/Hactoberfest2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Here is a starter project for first time contributors #hacktoberfest 
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
@@ -59,4 +62,7 @@ Name the file `hello_github_yourusername.xx`. e.g., `hello_github_sn99.rs` or `h
 
 **Don't forget to include the comments as seen above.**
 
+*Remember to make a pull request from your forked version*
+
+[Reddit channel for beginners](https://www.reddit.com/r/learnprogramming/)
 [markdown cheat-sheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
